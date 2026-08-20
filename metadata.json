@@ -1,0 +1,6 @@
+{
+  "name": "Hey Chat",
+  "description": "A modern Hey Chat messaging and calling Android application with Material 3 styling, status stories, encrypted chats, audio/video calls, and dark theme support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
